@@ -7,6 +7,12 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Links
 https://www.fullstackpython.com/
 
+
+JS run31.github.io/js
+
+Flask
+https://habr.com/ru/post/237517/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
