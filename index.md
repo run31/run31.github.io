@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 https://www.fullstackpython.com/
 
 
-JS [[run31.github.io/js]]
+JS https://run31.github.io/js
 
 Flask
 https://habr.com/ru/post/237517/
