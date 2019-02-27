@@ -7,6 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Links
 [www.fullstackpython.com](https://www.fullstackpython.com/)
 
+[Как научить людей использовать Git](https://habr.com/ru/post/437000/)
 
 [JS](js.md)
 
