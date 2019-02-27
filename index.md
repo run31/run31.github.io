@@ -8,9 +8,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [www.fullstackpython.com] (https://www.fullstackpython.com/)
 
 
-[JS] (js.md)
+[JS] #js.md
 
-[Flask] (https://habr.com/ru/post/237517/)
+[Flask](https://habr.com/ru/post/237517/)
 
 ### Markdown
 
