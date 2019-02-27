@@ -5,13 +5,12 @@ You can use the [editor on GitHub](https://github.com/run31/run31.github.io/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 # Links
-https://www.fullstackpython.com/
+[www.fullstackpython.com] (https://www.fullstackpython.com/)
 
 
-JS https://run31.github.io/js.md
+[JS] (js.md)
 
-Flask
-https://habr.com/ru/post/237517/
+[Flask] (https://habr.com/ru/post/237517/)
 
 ### Markdown
 
